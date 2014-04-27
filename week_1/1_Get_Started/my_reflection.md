@@ -6,7 +6,7 @@
 * Why do developers use version control (git)? Does that make sense to you? Why or why not?
 * What doesn't make sense? What does?
 
-I'm working on OSX 10.9.1. I had REALLY intense struggles setting up git and GitHub. Whenever I went to run a "git init" command in the CLI, I would get the error messages:
+I'm working on OSX 10.9.1. I had REALLY intense struggles setting up git and GitHub. Whenever I went to run a "git init" command in the CLI, I would get the error messages
 	
 	error: could not lock config file /Users/Ariel/my-first-repo/.git/config: Permission denied
 	error: could not lock config file /Users/Ariel/my-first-repo/.git/config: Permission denied
