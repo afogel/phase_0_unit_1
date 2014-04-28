@@ -10,5 +10,5 @@ here's a link to my wireframe html page: Website url: http://afogel.github.io/un
 
 2. Take a moment to reflect on reading other people's responses regarding their fears about DBC. How did that make you feel? Did you feel better, worse, or something else all together? How has your experience this week influenced your feelings? All feelings are welcome and ok. Just take a moment to think about it and write it down. 
 
-<!-- Insert your response here -->
+It's nice to be in good company--it seems like most of us are a bit nervous, but excited to get into the thick of it things. I have to say that when things go my way (read: websites are online, css doesn't go crazy on me), it's encouraging and makes me feel as though I'll definitely be able to get through things. It seems like we all come from varied backgrounds with different exposure to and experience with the materials, but ultimately we're all going out on a limb to try to make it work, which increases the sense of comradery and helps cheer each other on.
 
