@@ -1,1 +1,30 @@
 /* include your css here */
+body{
+	background: url('http://s2.postimg.org/fqloty74o/background.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#header{ 
+	text-align: center;
+}
+#element_1 { 
+	float: left;
+	height: 700px;
+	margin-right: 00px;
+	padding-right: 50px;
+	width: 200px;
+}
+#element_1 a{
+	font-weight:bold;
+}
+#element_2 { 
+	height: 700px;
+	margin-left: 60px;
+	padding-left: 200px;
+	padding-right: 500px;
+}
+#footer { 
+	float: clear;
+}
