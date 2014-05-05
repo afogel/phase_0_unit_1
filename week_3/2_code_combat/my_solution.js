@@ -85,4 +85,3 @@
 // the purpose of the semicolon is to act as a delimiter. That way, if we have a function with many parameters, for example,
 //  that extends beyond a single line, JavaScript knows that all the content that is before the semicolon is part of the 
 //  function's parameters.
-JavaScript knows that it only has to 
