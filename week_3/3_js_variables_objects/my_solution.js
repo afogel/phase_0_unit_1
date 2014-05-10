@@ -1,19 +1,35 @@
+
+Welcome to Stypi!
+
+Stypi is a realtime editor that allows multiple users to make changes to a single document at the same time. All you need to do is share the URL with others to begin collaborating!
+
+This editor also supports programming languages that you can access by clicking on the "</>" button on the top left. For more information on how to use Stypi please click the FAQ link on the bottom left.
+
 // I paired [by myself, with:] on this challenge.
+// with Arik
 
 
 
 
 // Pseudocode
+// Create a variable that is a number.
+// Set variable 'secretNumber' equal to 7.
 // 
-// 
-// 
-// 
+// Create a variable password that is a string.
+// Set the variable password to 'just open the door.'
 
+// Create a variable allowedIn that is a boolean.
+// Set the variable allowedIn equal to false. 
 
+// Create an array called members 
+// Make sure that the first element of members is the string 'John', and the fourth element is 'Mary.' 
 // __________________________________________
 // Write your code below.
 
-
+var secretNumber = 7;
+var password = "just open the door";
+var allowedIn = false;
+var members = ['John', 'Jesus','Joseph', 'Mary'];
 
 
 
@@ -22,7 +38,9 @@
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
 
-
+//When we read through the psuedocode as we were attempting to write the code, it seemed more reasonable to simply combine 
+//the two steps into one for the purpose of DRYness. This was based off of an intuitive, gut impulse to write DRY code. 
+//We found it very straightforward. 
 
 
 
