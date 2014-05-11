@@ -46,12 +46,26 @@ var members = ['John', 'Jesus','Joseph', 'Mary'];
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
+// *What parts of your strategy worked? What problems did you face?
+// This challenge was fairly easy and straightforward for both of us, so we faced no problems.
 // 
+// *What questions did you have while coding? What resources did you find to help you answer them?
+// None :)
 // 
+// *What concepts are you having trouble with, or did you just figure something out? If so, what?
+// I'm not having any trouble with any concepts right now.
 // 
+// *Did you learn any new skills or tricks?
+// Not really, but it was nice to practice psuedo-coding.
 // 
+// *How confident are you with each of the Learning Competencies?
+// I'm feeling very comfortable with all of the learning competencies.
 // 
+// *Which parts of the challenge did you enjoy?
+// Meh, it seemed pretty basic...not a ton to enjoy.
 // 
+// *Which parts of the challenge did you find tedious?
+// Nothing seemed tedious either. We got through the challenge within 20 minutes or so.
 
 
 // __________________________________________
