@@ -53,7 +53,7 @@ terah.weight = 125;
 delete terah.eyeColor;
 adam.spouse = terah;
 terah.children = {};
-terah.children.carson = {name: "Carson"};
+terah.children.carson = {name : "Carson"};
 terah.children.carter = {name : "Carter"};
 terah.children.colton = {name : "Colton"};
 adam.children = terah.children;
@@ -67,11 +67,33 @@ adam.children = terah.children;
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
+// *What parts of your strategy worked? What problems did you face?
+// I initially had an issue with trying to use dot notation to access the property of the three children before
+// I had created each child (e.g. after creating "terah.children ={}", 
+//   I tried to run "terah.children.carson.name = 'Carson'"). The first strategy that I employed to overcome the 
+// challenge was by first initializing each child (e.g. "terah.children.carson = {}"), then using the code I originally
+// tried. After completing the challenge, though I went back to refactor the code to be more D.R.Y.
 // 
+// *What questions did you have while coding? What resources did you find to help you answer them?
+// I relied heavily on both the course reading that was required and supplemented it with the codecademy materials 
+// on JavaScript.
 // 
+// *What concepts are you having trouble with, or did you just figure something out? If so, what?
+// Thankfully, I'm not having any trouble with understanding the object literal syntax for creating objects :)
 // 
+// *Did you learn any new skills or tricks?
+// Yup! I learned that you can't implicitly create an object property simply by including it in your ultimate
+// property "tree". So the form of "terah.children.carson = {name : "Carson"};", for example, is a good way of
+// 'skipping' a step.
 // 
+// *How confident are you with each of the Learning Competencies?
+// I feel very confident  with each of the Learning Competencies.
 // 
+// *Which parts of the challenge did you enjoy?
+// This challenge was fairly straightforward and enjoyable :)
+// 
+// *Which parts of the challenge did you find tedious? 
+// None!
 
 
 // __________________________________________

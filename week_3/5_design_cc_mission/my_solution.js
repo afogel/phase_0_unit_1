@@ -190,8 +190,35 @@ assert(princess.posx===9 && princess.posy===3, "Princess reached final destinati
 // Reflection
 // 
 // 
+// *What parts of your strategy worked? What problems did you face?
+// I faced the problems of trying to understand how to use the `this' operator appropriately and how to 
+// change the affect the properties of an object. The parts of the strategy that did work were the creating
+// the objects, as well as creating the storyline :)
 // 
+// *What questions did you have while coding? What resources did you find to help you answer them?
+// The questions that arose while coding were how to use the this. operator to influence an object, and
+// whether once we used the `this' operator in constructing methods and objects, we used `this' like the
+// codecombat missions or whether we called the objects themselves.
+// Office hours were incredibly helpful!
 // 
+// *What concepts are you having trouble with, or did you just figure something out? If so, what?
+// I'm not having any trouble with any concepts right now.
+// 
+// *Did you learn any new skills or tricks?
+// Yup! I learned about using the `object.prototype.method' syntax to define methods for an entire range of
+// objects that were created using a constructor function to create objects. This allowed me to apply the same
+// method to multiple objects.
+// 
+// *How confident are you with each of the Learning Competencies?
+// I'm feeling very comfortable with all of the learning competencies, except for the bonus ones.
+// 
+// *Which parts of the challenge did you enjoy?
+// I enjoyed coming up with the story and actually writing code that worked, though I have to admit that it
+// was inredibly time consuming.
+// 
+// *Which parts of the challenge did you find tedious?
+// Writing the story and planning the world was a bit tedious, even though it was made much more enjoyable and
+// interesting by Pair Programming.
 // 
 // 
 // 
